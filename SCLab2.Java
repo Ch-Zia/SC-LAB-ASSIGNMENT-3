@@ -4,6 +4,7 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 
 //author @ NidaBashir safi zia maisum sania sath bethi hai
+// edited
 
 public class SCLab2{
 public static void main(String[] args){
