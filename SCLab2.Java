@@ -3,7 +3,7 @@ import java.util.regex.Pattern;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 
-//author @ NidaBashir safi zia maisum
+//author @ NidaBashir safi zia maisum sania sath bethi hai
 
 public class SCLab2{
 public static void main(String[] args){
