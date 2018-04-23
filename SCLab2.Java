@@ -3,7 +3,8 @@ import java.util.regex.Pattern;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 
-//author @ NidaBashir safi zia maisum 
+//author @ NidaBashir safi zia maisum
+
 public class SCLab2{
 public static void main(String[] args){
 Scanner sc=new Scanner(System.in);
