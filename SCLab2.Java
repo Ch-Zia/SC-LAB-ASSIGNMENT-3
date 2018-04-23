@@ -1,12 +1,7 @@
-package sclab2;
- /**
- *
- * @author Zia Ur Rehman
- */
- 
- import java.util.regex.Pattern;
- import java.util.Scanner;
- import java.util.regex.Matcher;
+
+import java.util.regex.Pattern;
+import java.util.Scanner;
+import java.util.regex.Matcher;
 
 public class SCLab2{
 public static void main(String[] args){
